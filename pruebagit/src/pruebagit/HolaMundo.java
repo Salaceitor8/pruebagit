@@ -3,7 +3,7 @@ package pruebagit;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("Otro mensaje");
+		System.out.println("Estamos a lunes!!!");
 
 	}
 
